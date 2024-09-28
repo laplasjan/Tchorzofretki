@@ -15,9 +15,10 @@ Ponieważ CLIP jest trenowany na parach obraz- tekst, podzieliliśmy filmiki na 
 \
 Jak korzystać? \
 1. klatki.py
-2. CLIP.py
-3. stronka.py
-4. merge.py
+2. analiza_tekstu
+3. CLIP.py
+4. stronka.py
+5. merge.py
 
 Opisy kodu: \
 - klatki jest programem, który przygotowuje filmiki w .mp4 do zdjęć klatek w .jpg
