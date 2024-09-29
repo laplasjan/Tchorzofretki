@@ -14,11 +14,12 @@ Zamierzamy ykorzystać OpenSourcowy model CLIP wykonany przez OpenAI. Jest to mo
 Ponieważ CLIP jest trenowany na parach obraz- tekst, podzieliliśmy filmiki na klatki i otagowaliśmy je korzystając z podpowiedzi na pierwszych klatkach odnośnie tego, co tam się znajdowało na filmiku np pierwszy filmik miał: za szybkie temp. przerywniki, nadmierne powtórzenia.\
 \
 Jak korzystać? \
-1. klatki.py
-2. analiza_tekstu
-3. CLIP.py
-4. stronka.py
-5. merge.py
+1. klatki.
+2. analiza tekstu
+3. ekstrakcja kluczowych słów
+4. CLIP.py
+5. stronka.py
+6. merge.py
 
 Opisy kodu: \
 - klatki jest programem, który przygotowuje filmiki w .mp4 do zdjęć klatek w .jpg
