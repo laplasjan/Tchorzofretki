@@ -17,9 +17,8 @@ Jak korzystać? \
 1. klatki.
 2. analiza tekstu
 3. ekstrakcja kluczowych słów
-4. rozpoznawanie twarzy
 5. CLIP.py
-6. stronka.py
+6. detekcja twarzy
 7. merge.py
 8. stronka
 
