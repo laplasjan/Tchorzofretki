@@ -17,9 +17,11 @@ Jak korzystać? \
 1. klatki.
 2. analiza tekstu
 3. ekstrakcja kluczowych słów
-4. CLIP.py
-5. stronka.py
-6. merge.py
+4. rozpoznawanie twarzy
+5. CLIP.py
+6. stronka.py
+7. merge.py
+8. stronka
 
 Opisy kodu: \
 - klatki jest programem, który przygotowuje filmiki w .mp4 do zdjęć klatek w .jpg
