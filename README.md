@@ -25,4 +25,5 @@ Jak korzystać?
 Pobierz dataset lub uruchom z mojego dysku bezpośrednio
 zrunuj plik MESONET
 
-
+Uzyskaliśmy skuteczność 91% dla rozpoznawania artystów oraz 97% dla rozpoznawania obrazków genai 
+![epoche](https://github.com/user-attachments/assets/fe02b4ba-3054-48f4-8276-e4e077ed035c)
